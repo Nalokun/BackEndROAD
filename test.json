@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Main Street",
+        "lat": 32.221,
+        "lng": 35.262,
+        "status": "open"
+    },
+    {
+        "id": 2,
+        "name": "Main Street2",
+        "lat": 32.221,
+        "lng": 35.262,
+        "status": "close"
+    }
+]
